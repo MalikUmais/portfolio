@@ -46,7 +46,7 @@ body {
 }
 
 .myImg {
-    background-image: url(../assets/images/LeftImg.jpg);
+    background-image: url(../assets/images/leftImg.jpg);
     height: 150px;
     width: 150px;
     border-radius: 150px;
