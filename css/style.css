@@ -570,7 +570,7 @@ ul li {
 
 .p:hover .p_info {
     cursor: pointer;
-    background-color: #959596;
+    background-color: rgba(218, 217, 217, 0.856);
     visibility: visible;
     opacity: 1;
     border-radius: 8px;
@@ -591,9 +591,9 @@ ul li {
 .s_code {
     padding: 8px 4px;
     border-radius: 15px;
-    color: #959596;
+    color: #2c98f0;
     margin-top: 5px;
-    background-color: white;
+    background-color: rgba(230, 229, 229, 0.979);
     border: none;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -608,7 +608,7 @@ ul li {
 
 .s_code:hover {
     transition: all .3s ease;
-    background-color: rgb(207, 202, 202);
+    background-color: white;
 }
 
 
@@ -765,6 +765,9 @@ section {
         bottom: 0;
         margin-top: 30px;
     }
+    .contIMG{
+        margin: auto !important;
+    }
 }
 
 @media (max-width: 768px) {
@@ -788,6 +791,9 @@ section {
 
     section p {
         font-size: 14px;
+    }
+    .contIMG{
+        margin: auto !important;
     }
 }
 
