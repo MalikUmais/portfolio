@@ -55,7 +55,7 @@ const projects = [
     {
         pImg: 'assets/images/portfolio.png',
         pTitle: 'Portfolio',
-        pLink: 'https://github.com/MalikUmais/KhareedLo-Shopping-Web-Frontend-UI-',
+        pLink: 'https://github.com/MalikUmais/portfolio',
     },
     {
         pImg: 'assets/images/todo.png',
