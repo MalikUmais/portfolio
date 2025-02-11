@@ -803,46 +803,5 @@ section {
     .right section {
         min-height: 800px;
         /* Adjust this value as needed */
-    }
-
-    /* Adjust other sections as necessary */
-    .About,
-    .Skills,
-    .Education,
-    .Contact,
-    .Projects {
-        min-height: 800px;
-        /* Adjust this value as needed */
-    }
-
-    /* Additional adjustments for better responsiveness */
-    .cont {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 20px;
-        padding: 20px 10px;
-    }
-
-    .skill-bars {
-        margin: 10% 0% 10% 5%;
-        display: grid;
-        grid-template-columns: 1fr;
-        width: 90%;
-        grid-gap: 30px;
-    }
-
-    .box {
-        margin: 60px 0;
-    }
-
-    .row,
-    .rowInfo {
-        width: 75%;
-    }
-
-    .projectsSection {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 20px;
-        padding: 20px 10px;
-        margin: 20px 37px;
-    }
+    }   
 }
